@@ -11,3 +11,4 @@ This part of the assignment requires you to learn information about working with
 This part of the assignment requires testing the GitHub features described in the section above using Google Colab or Postman.
 
 ### Prepare documentation and output results based on your work
+complete all assignments and submit for review
